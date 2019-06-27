@@ -58,8 +58,7 @@ Now, now. This is time where fun happens.
 - To procced further, if you want to run this bot using this method, you have to download npm library manager. To do so download program called node.js.
 - After installing node.js, run it and write following command: npm install discord.js . Doing so will result discord.js library installation. You still need help with discord.js? Visit their official website: https://discord.js.org/#/ .
 - Now, after you have done it, create folder on your desktop and call it how you want. It isn't important.
-- When you create folder, go into it and create following files: auth.json , bot.js , config.json , misc.js and package.json .
-- When you create all of the files, copy all content from files of HypeBot and paste it into correct files.
+- When you create folder, go into it and download all of the files here .
 
 if some of the things won't work in package.json, notify bot creators because of issue.
 
