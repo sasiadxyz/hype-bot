@@ -91,4 +91,5 @@ And.... that is it. You propally configured HypeBot Open-source project 1.0.0! T
 
 Thank you for reading that configuration guide! You may now test bot and - if you are brave enough - edit code. Have fun!
 
+HYPE BOT by Wojtess#0443 - SasiadJanusz#8560 - Bin#4027
 
