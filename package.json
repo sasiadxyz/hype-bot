@@ -12,7 +12,7 @@
   "dependencies": {
     "date-format": "^2.0.0",
     "discord.js": "^11.5.1",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "express-glitch-keepalive": "^0.2.0"
   }
 }
